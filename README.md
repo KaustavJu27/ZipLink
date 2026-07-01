@@ -31,19 +31,24 @@ A modern full-stack URL shortening platform built with **Next.js**, **MongoDB**,
 
 ### Home Page
 
-_Add screenshot here_
+<img width="1898" height="846" alt="image" src="https://github.com/user-attachments/assets/a7cf1f3f-c6e9-4cf3-9d2f-f049933965d4" />
+
 
 ---
 
 ### URL Shortener
 
-_Add screenshot here_
+<img width="1158" height="771" alt="image" src="https://github.com/user-attachments/assets/649b3fea-89a4-448d-9367-d75572163a6b" />
+
+
+<img width="597" height="782" alt="image" src="https://github.com/user-attachments/assets/1da7e105-809e-4c7d-8b11-c777c8220d41" />
 
 ---
 
 ### Dashboard
 
-_Add screenshot here_
+<img width="1896" height="496" alt="image" src="https://github.com/user-attachments/assets/82f1dd3e-7595-488f-a697-79e76734a299" />
+
 
 ---
 
@@ -273,10 +278,12 @@ This project is licensed under the MIT License.
 **Kaustav Mondal**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/KaustavJu27
 
 LinkedIn:
-(Add your LinkedIn profile)
+www.linkedin.com/in/kaustav-mondal2005
+
+
 
 ---
 
