@@ -6,7 +6,7 @@ A modern full-stack URL shortening platform built with **Next.js**, **MongoDB**,
 
 ## 🚀 Live Demo
 
-🌐 **Website:** https://YOUR_VERCEL_URL.vercel.app
+🌐 **Website:** [https://YOUR_VERCEL_URL.vercel.app](https://zip-link-zeta.vercel.app/)
 
 ---
 
