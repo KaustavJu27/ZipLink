@@ -101,7 +101,7 @@ const Shorten = () => {
             //     alert(result.message)
             // })
             .then(async (result) => {
-                const shortLink = `${process.env.NEXT_PUBLIC_HOST}/${shorturl}`;
+                const shortLink = `${window.location.origin}/${shorturl}`;
                 setGenerated(shortLink);
                 await generateQR(shortLink);
                 seturl("");
